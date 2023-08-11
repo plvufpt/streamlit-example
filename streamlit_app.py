@@ -4,6 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import vnstock
+import matplotlib
 
 """
 # Welcome to Streamlit!
